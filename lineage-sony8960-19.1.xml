@@ -7,7 +7,7 @@
   <remote name="Marek8299" fetch="https://github.com" revision="refs/heads/lineage-19.1" />
 
   <!-- LineageOS Dependency Projects -->
-  <project name="LineageOS/android_device_sony_common" path="device/sony/common" remote="Lineage18" />
+  <project name="LineageOS/android_device_sony_common" path="device/sony/common" remote="Marek8299" />
   <project name="LineageOS/android_hardware_sony_DASH" path="hardware/sony/DASH" remote="Lineage18" />
   <project name="LineageOS/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="Lineage18" />
 
